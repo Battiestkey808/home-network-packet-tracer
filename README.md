@@ -1,11 +1,11 @@
-# Home-network-packet-tracer
+Home-network-packet-tracer
 Designed and simulated a small home network using Cisco Packet Tracer. Configured a router, switch, wired and wireless devices, IPv4 addressing, DHCP, and default gateway settings. Tested connectivity using ping and troubleshot network communication issues. Documented the network topology and configuration process.
 
-# Overview
+Overview
 
 I designed and simulated a small home network using Cisco Packet Tracer. The network connects computers, wireless devices, a switch, and a router to demonstrate basic home networking and troubleshooting.
 
-# Technologies Used
+Technologies Used
 
 - Cisco Packet Tracer
 - IPv4 addressing
@@ -16,7 +16,7 @@ I designed and simulated a small home network using Cisco Packet Tracer. The net
 - Default gateway configuration
 - Ping testing
 
-# Network Features
+Network Features
 
 - Router provides connectivity between devices
 - DHCP automatically assigns IP addresses
@@ -25,7 +25,7 @@ I designed and simulated a small home network using Cisco Packet Tracer. The net
 - Devices communicate through the default gateway
 - Connectivity was tested using ping
 
-# What I Did
+What I Did
 
 - Built the network topology
 - Connected wired and wireless devices
@@ -35,7 +35,7 @@ I designed and simulated a small home network using Cisco Packet Tracer. The net
 - Troubleshot connectivity issues
 - Documented the final network design
 
-# Skills Demonstrated
+Skills Demonstrated
 
 - Network design
 - IP configuration
