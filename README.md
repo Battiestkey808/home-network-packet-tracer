@@ -26,8 +26,8 @@ I designed and simulated a small home network using Cisco Packet Tracer. The net
 - Devices communicate through the default gateway
 - Connectivity was tested using ping
 
-**What I Did
-**
+**What I Did**
+
 - Built the network topology
 - Connected wired and wireless devices
 - Configured IP addressing
@@ -36,8 +36,8 @@ I designed and simulated a small home network using Cisco Packet Tracer. The net
 - Troubleshot connectivity issues
 - Documented the final network design
 
-**Skills Demonstrated
-**
+**Skills Demonstrated**
+
 - Network design
 - IP configuration
 - Basic router and switch configuration
